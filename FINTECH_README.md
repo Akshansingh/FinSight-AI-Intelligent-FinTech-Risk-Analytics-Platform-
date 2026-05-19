@@ -2,7 +2,7 @@
 
 > A full-stack FinTech platform powered by Machine Learning, Real-Time Data Streaming, and AI-driven insights — combining fraud detection, stock trend prediction, credit risk scoring, and smart budgeting in a single unified system.
 
-🌐 **Live Demo**: *(Deploy on Vercel / Render)*
+
 👨‍💻 **Author**: [Akshan Singh](https://github.com/Akshansingh)
 📅 **Duration**: Jun 2025 – Present
 🏷️ **Tags**: `FinTech` `Machine Learning` `Apache Kafka` `Apache Spark` `Deep Learning` `Python` `FastAPI` `React`
